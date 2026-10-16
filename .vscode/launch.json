@@ -1,0 +1,185 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Graph",
+      "request": "launch",
+      "mainClass": "Graph",
+      "projectName": "DSA IN JAVA_be0f0554"
+    },
+    {
+      "type": "java",
+      "name": "hashset",
+      "request": "launch",
+      "mainClass": "hashset",
+      "projectName": "DSA IN JAVA_be0f0554"
+    },
+    {
+      "type": "java",
+      "name": "treehashmap",
+      "request": "launch",
+      "mainClass": "treehashmap",
+      "projectName": "DSA IN JAVA_be0f0554"
+    },
+    {
+      "type": "java",
+      "name": "Hashmap",
+      "request": "launch",
+      "mainClass": "Hashmap",
+      "projectName": "DSA IN JAVA_be0f0554"
+    },
+    {
+      "type": "java",
+      "name": "connectnrope",
+      "request": "launch",
+      "mainClass": "connectnrope",
+      "projectName": "DSA IN JAVA_be0f0554"
+    },
+    {
+      "type": "java",
+      "name": "heap",
+      "request": "launch",
+      "mainClass": "heap",
+      "projectName": "DSA IN JAVA_be0f0554"
+    },
+    {
+      "type": "java",
+      "name": "BST",
+      "request": "launch",
+      "mainClass": "BST",
+      "projectName": "DSA IN JAVA_be0f0554"
+    },
+    {
+      "type": "java",
+      "name": "invertbinarytree",
+      "request": "launch",
+      "mainClass": "invertbinarytree",
+      "projectName": "DSA IN JAVA_be0f0554"
+    },
+    {
+      "type": "java",
+      "name": "BinayTree",
+      "request": "launch",
+      "mainClass": "BinayTree",
+      "projectName": "DSA IN JAVA_be0f0554"
+    },
+    {
+      "type": "java",
+      "name": "duplicateparen",
+      "request": "launch",
+      "mainClass": "duplicateparen",
+      "projectName": "DSA IN JAVA_be0f0554"
+    },
+    {
+      "type": "java",
+      "name": "validparenthesis",
+      "request": "launch",
+      "mainClass": "validparenthesis",
+      "projectName": "DSA IN JAVA_be0f0554"
+    },
+    {
+      "type": "java",
+      "name": "reversearray",
+      "request": "launch",
+      "mainClass": "reversearray",
+      "projectName": "DSA IN JAVA_be0f0554"
+    },
+    {
+      "type": "java",
+      "name": "linkedlists",
+      "request": "launch",
+      "mainClass": "linkedlists",
+      "projectName": "DSA IN JAVA_be0f0554"
+    },
+    {
+      "type": "java",
+      "name": "Classrooms",
+      "request": "launch",
+      "mainClass": "Classrooms",
+      "projectName": "DSA IN JAVA_be0f0554"
+    },
+    {
+      "type": "java",
+      "name": "classroom",
+      "request": "launch",
+      "mainClass": "classroom",
+      "projectName": "DSA IN JAVA_be0f0554"
+    },
+    {
+      "type": "java",
+      "name": "Recursion",
+      "request": "launch",
+      "mainClass": "Recursion",
+      "projectName": "DSA IN JAVA_be0f0554"
+    },
+    {
+      "type": "java",
+      "name": "opps",
+      "request": "launch",
+      "mainClass": "opps",
+      "projectName": "DSA IN JAVA_be0f0554"
+    },
+    {
+      "type": "java",
+      "name": "checkpower",
+      "request": "launch",
+      "mainClass": "checkpower",
+      "projectName": "DSA IN JAVA_be0f0554"
+    },
+    {
+      "type": "java",
+      "name": "bitmanipulation",
+      "request": "launch",
+      "mainClass": "bitmanipulation",
+      "projectName": "DSA IN JAVA_be0f0554"
+    },
+    {
+      "type": "java",
+      "name": "Anagramcheck",
+      "request": "launch",
+      "mainClass": "Anagramcheck",
+      "projectName": "DSA IN JAVA_be0f0554"
+    },
+    {
+      "type": "java",
+      "name": "countvowels",
+      "request": "launch",
+      "mainClass": "countvowels",
+      "projectName": "DSA IN JAVA_be0f0554"
+    },
+    {
+      "type": "java",
+      "name": "touppercase",
+      "request": "launch",
+      "mainClass": "touppercase",
+      "projectName": "DSA IN JAVA_be0f0554"
+    },
+    {
+      "type": "java",
+      "name": "sbuilder",
+      "request": "launch",
+      "mainClass": "sbuilder",
+      "projectName": "DSA IN JAVA_be0f0554"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/HP/Desktop/DSA IN JAVA",
+      "program": "c:/Users/HP/Desktop/DSA IN JAVA/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}

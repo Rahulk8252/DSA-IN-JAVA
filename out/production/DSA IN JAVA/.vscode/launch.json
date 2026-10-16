@@ -1,0 +1,87 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "classroom",
+      "request": "launch",
+      "mainClass": "classroom",
+      "projectName": "DSA IN JAVA_be0f0554"
+    },
+    {
+      "type": "java",
+      "name": "Recursion",
+      "request": "launch",
+      "mainClass": "Recursion",
+      "projectName": "DSA IN JAVA_be0f0554"
+    },
+    {
+      "type": "java",
+      "name": "opps",
+      "request": "launch",
+      "mainClass": "opps",
+      "projectName": "DSA IN JAVA_be0f0554"
+    },
+    {
+      "type": "java",
+      "name": "checkpower",
+      "request": "launch",
+      "mainClass": "checkpower",
+      "projectName": "DSA IN JAVA_be0f0554"
+    },
+    {
+      "type": "java",
+      "name": "bitmanipulation",
+      "request": "launch",
+      "mainClass": "bitmanipulation",
+      "projectName": "DSA IN JAVA_be0f0554"
+    },
+    {
+      "type": "java",
+      "name": "Anagramcheck",
+      "request": "launch",
+      "mainClass": "Anagramcheck",
+      "projectName": "DSA IN JAVA_be0f0554"
+    },
+    {
+      "type": "java",
+      "name": "countvowels",
+      "request": "launch",
+      "mainClass": "countvowels",
+      "projectName": "DSA IN JAVA_be0f0554"
+    },
+    {
+      "type": "java",
+      "name": "touppercase",
+      "request": "launch",
+      "mainClass": "touppercase",
+      "projectName": "DSA IN JAVA_be0f0554"
+    },
+    {
+      "type": "java",
+      "name": "sbuilder",
+      "request": "launch",
+      "mainClass": "sbuilder",
+      "projectName": "DSA IN JAVA_be0f0554"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/HP/Desktop/DSA IN JAVA",
+      "program": "c:/Users/HP/Desktop/DSA IN JAVA/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
